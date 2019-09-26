@@ -1,0 +1,25 @@
+ h1 {
+    color: orangered;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+/* h3 {
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+} */
+
+/* .container {
+    display: flex;
+    justify-content: space-between;
+} */
+.one {
+    width: 40%;
+    height: 200px;
+    float: left;
+}
+.two {
+    margin-left: 50%;
+    height: 200px;
+}
